@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/app-launch/static/js/main.e19a2b8b.js",
+    "static/media/img4.png": "/app-launch/static/media/img4.40fe1a0f2999846060fa.png",
+    "static/media/img5.png": "/app-launch/static/media/img5.0eb75003b8eed78cc48a.png",
+    "static/media/main-img.png": "/app-launch/static/media/main-img.6ca39e845f3755f04c68.png",
+    "static/media/img2.png": "/app-launch/static/media/img2.1987028000060666a2cc.png",
+    "static/media/img3.png": "/app-launch/static/media/img3.76b4c74c8bc3e320709b.png",
+    "static/media/img1.png": "/app-launch/static/media/img1.118f30818e87d8a085c3.png",
+    "static/media/pic4.jpg": "/app-launch/static/media/pic4.b43bdbb06316b9e8209f.jpg",
+    "static/media/pic3.jpg": "/app-launch/static/media/pic3.b91896d72f53fdaa663c.jpg",
+    "static/media/pic2.jpg": "/app-launch/static/media/pic2.d0d6ad77a9e34dd60f8b.jpg",
+    "static/media/pic1.webp": "/app-launch/static/media/pic1.859d85a3cd14ef3ee75e.webp",
+    "index.html": "/app-launch/index.html",
+    "main.e19a2b8b.js.map": "/app-launch/static/js/main.e19a2b8b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e19a2b8b.js"
+  ]
+}
